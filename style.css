@@ -1,0 +1,12 @@
+body {
+	font-family: 'Comfortaa', cursive;
+}
+
+.retweet-container, .favorite-container {
+    display: flex;
+    align-items: center;
+}
+
+.retweet-container p, .favorite-container p {
+    margin: 0;
+}
